@@ -15,9 +15,8 @@ A feature-rich interactive game developed in MIPS assembly language, demonstrati
 - [MARS MIPS Simulator](http://courses.missouristate.edu/kenvollmar/mars/) version 4.5 or later
 
  Project Structure
-gamecode/
-├── game.asm # Main game source file
-└── README.md # Project documentation
+ - game.asm - Main game source file
+ - README.md - Project documentation
 
 ## 🚀 Installation & Execution
 
