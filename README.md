@@ -12,7 +12,7 @@ A feature-rich interactive game developed in MIPS assembly language, demonstrati
 ## 🛠️ Technical Details
 
  Prerequisites
-- [MARS MIPS Simulator](http://courses.missouristate.edu/kenvollmar/mars/) version 4.5 or later
+- [MARS MIPS Simulator](https://computerscience.missouristate.edu/mars-mips-simulator.htm) version 4.5 or later
 
  Project Structure
  - game.asm - Main game source file
@@ -21,7 +21,7 @@ A feature-rich interactive game developed in MIPS assembly language, demonstrati
 ## 🚀 Installation & Execution
 
 1. **Download MARS**:
-   - Visit the [MARS download page](http://courses.missouristate.edu/kenvollmar/mars/)
+   - Visit the [MARS download page](https://computerscience.missouristate.edu/mars-mips-simulator.htm)
    - Download and extract the MARS jar file
 
 2. **Run the Game**:
